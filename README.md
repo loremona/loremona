@@ -33,4 +33,4 @@ interattivo in Streamlit, 35 moduli e 154 esercizi, orientato all'automazione.
 
 ### Contatti
 
-[LinkedIn](https://www.linkedin.com/in/lorenzo-monaco-6379751b9) · lorenzomonaco2811@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lorenzo-monaco2811) · lorenzomonaco2811@gmail.com
