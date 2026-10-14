@@ -5,9 +5,15 @@ Practitioner (CLF-C02)**, poi punto alla Solutions Architect Associate. Intanto 
 la **LPIC-1**, perché senza basi solide di Linux il cloud non si capisce davvero.
 
 Uso Linux tutti i giorni (CachyOS) e il modo in cui imparo meglio è costruire qualcosa:
-quasi tutto quello che vedi qui è nato per studiare.
+quasi tutto quello che vedi qui è nato per studiare. Da poco ho iniziato anche con il mondo
+Microsoft: Windows Server, Active Directory e PowerShell.
 
 ### Progetti
+
+**[windows-ad-lab](https://github.com/loremona/windows-ad-lab)**: il mio laboratorio su
+Windows Server 2025. Un dominio Active Directory costruito da zero in una VM: Domain
+Controller con DNS, OU per reparto, GPO verificate con `gpresult` e uno script PowerShell
+che crea gli utenti in blocco da un file CSV.
 
 **[aws-quiz-master](https://github.com/loremona/aws-quiz-master)**: per preparare la CLF-C02.
 È partito come uno script Python con Streamlit, poi è diventato un'app Flask e infine un
@@ -29,7 +35,7 @@ interattivo in Streamlit, 35 moduli e 154 esercizi, orientato all'automazione.
 
 ### Con cosa lavoro
 
-`Linux` · `Git` · `GitHub Actions` · `Python` · `Flask` · `HTML/CSS/JavaScript` · `AWS (in studio)`
+`Linux` · `Windows Server` · `Active Directory` · `PowerShell` · `Git` · `GitHub Actions` · `Python` · `Flask` · `HTML/CSS/JavaScript` · `AWS (in studio)`
 
 ### Contatti
 
